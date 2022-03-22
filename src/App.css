@@ -1,1 +1,14 @@
-
+@font-face {
+    font-family: "Bebas-Bold";
+    src: url(./fonts/BebasNeueBold.otf) format("truetype");
+  }
+  
+  @font-face {
+    font-family: "Bebas-Light";
+    src: url(./fonts/BebasNeueLight.otf) format("truetype");
+  }
+  
+  @font-face {
+    font-family: "Bebas-Neue-Regular";
+    src: url(./fonts/BebasNeueRegular.otf) format("truetype");
+  } 

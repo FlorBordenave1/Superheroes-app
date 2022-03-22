@@ -1,0 +1,27 @@
+ 
+.container {
+  height: 21rem;
+  width: 20rem;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  margin-right: 3rem;
+  margin-left: 3rem;
+}
+
+.imageCard {
+  height: 15rem;
+}
+
+.buttonGrid {
+  display: flex;
+  height: 100%;
+  width: 100%;
+}
+.containerName {
+  margin-left: 1rem;
+  margin-top: 1rem;
+}
+
+.textAlert {
+  font-family: Bebas-Bold; 
+}
